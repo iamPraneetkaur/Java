@@ -5,10 +5,8 @@
 // Arjun wants to calculate the square and cube of a number for his math project. 
 
 // Write a program where the user inputs a single integer. The program should compute the square and cube of the number and display them.
-
 // Input format :
 // The input consists of a single integer n.
-
 // Output format :
 // The output prints the square and cube of the input number as:
 
