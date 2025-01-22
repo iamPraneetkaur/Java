@@ -40,7 +40,6 @@
 // 1 ≤ choice ≤ 3
 
 // 1 ≤ x1,y1,x2, y2 ≤ 50
-
 // Sample test cases :
 // Input 1 :
 // 1
