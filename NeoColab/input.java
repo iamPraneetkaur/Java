@@ -26,7 +26,6 @@
 // The given test cases fall under the following constraints:
 
 // 1 ≤ integer ≤ 100000
-
 // The character will be either uppercase or lowercase.
 
 // Sample test cases :
