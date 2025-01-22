@@ -48,7 +48,8 @@
 // Output 2 :
 // BMI: 35.55
 // Not in Healthy Range
-import java.util.*;
+
+import java.util.*;             //importing all libraries of util package
 public class Bmi{
     // You are using Java
     public static void main(String[] args) {
