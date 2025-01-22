@@ -7,9 +7,6 @@
 
 
 // Can you help Sophie develop this simple program?
-
-
-
 // Formula: celsius = (fahrenheit - 32) * 5/9
 
 // Input format :
