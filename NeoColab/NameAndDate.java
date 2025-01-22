@@ -14,13 +14,10 @@
 // Output format :
 // The output prints the reminder message.
 
-
-
 // Refer to the sample output for the exact text and format.
 
 // Code constraints :
 // The renewal date is a string in the format "YYYY-MM-DD".
-
 // Sample test cases :
 // Input 1 :
 // Alice
