@@ -3,9 +3,6 @@
 
 
 // Zara and Mike are comparing their savings to decide their next move. If Zara's savings are greater than Mike's, they plan to calculate the difference; otherwise, they'll add both savings together. She wants to write a program to compute the result of this comparison and multiply it by 2, considering operator precedence.
-
-
-
 // Help them in the programming task.
 
 // Input format :
