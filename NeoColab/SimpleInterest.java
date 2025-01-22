@@ -7,9 +7,6 @@
 
 
 // The program should take three inputs from the user: principal, rate, and time. It should then calculate the simple interest using the formula (principal * rate * time) / 100. Also, calculate the total amount (principal + simple interest) and display both the results.
-
-
-
 // It is important to consider the operator precedence and order of evaluation in this calculation.
 
 // Input format :
