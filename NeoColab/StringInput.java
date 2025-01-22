@@ -13,9 +13,6 @@
 
 // Output format :
 // The output prints "Episode [N] is [X] hours long!"
-
-
-
 // Refer to the sample output for the exact text and format.
 
 // Code constraints :
