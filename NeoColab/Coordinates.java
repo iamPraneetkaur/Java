@@ -76,14 +76,26 @@ public class Coordinates{
     y2= sc.nextDouble();
     switch(n){
        case 1:
+            x1= sc.nextDouble();
+            y1= sc.nextDouble();
+            x2= sc.nextDouble();
+            y2= sc.nextDouble();
            double slope= (y2-y1)/ (x2-x1);
            System.out.println("Slope: "+slope);
            break;
        case 2:
+            x1= sc.nextDouble();
+            y1= sc.nextDouble();
+            x2= sc.nextDouble();
+            y2= sc.nextDouble();
            double distance = Math.sqrt(((x2-x1)*(x2-x1)) + ((y2-y1)*(y2-y1)));
            System.out.println("Distance: "+String.format("%.2f",distance));
            break;
        case 3:
+            x1= sc.nextDouble();
+            y1= sc.nextDouble();
+            x2= sc.nextDouble();
+            y2= sc.nextDouble();
            double midpointX= (x1+x2)/2.0;
            double midpointY= (y1+y2)/2.0;
            System.out.println("Midpoint: ("+midpointX+", "+midpointY+")");
